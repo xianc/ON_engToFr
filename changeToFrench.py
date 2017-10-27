@@ -6,8 +6,8 @@ import sys
 dict = {
 	# 'TODDLER GIRL': 	'TOUTE-PETITE FILLE',
 	# 'TODDLER BOY': 	'TOUT-PETIT GARÇON', 
-	'TODDLER GIRLS': 	'TOUTE-PETITE FILLE',
-	'TODDLER BOYS': 	'TOUT-PETIT GARÇON', 
+	'TODDLER GIRLS': 	'Toute-petite Fille',
+	'TODDLER BOYS': 	'Tout-petit Garçon', 
 	'Exclusions & Details': 'Exclusions et détails',
 
 	'SHOP SALE':		'Magasiner Le Solde', 
@@ -42,14 +42,14 @@ dict = {
 }
 
 dict2 = {
-	'WOMEN':			'FEMME', 
+	'WOMEN':			'Femme', 
 	'MATERNITY':		'Maternité',
-	'MEN': 				'HOMME', 
+	'MEN': 				'Homme', 
 	# 'GIRL': 			'FILLE', 
 	# 'BOY': 			'GARÇON', 
-	'GIRLS': 			'FILLE', 
-	'BOYS': 			'GARÇON', 
-	'BABY':				'BÉBÉ', 
+	'GIRLS': 			'Fille', 
+	'BOYS': 			'Garçon', 
+	'BABY':				'Bébé', 
 
 	'&':				'et', 
 
@@ -63,7 +63,6 @@ dict2 = {
 	'ACTIVEWEAR':		'La Mode Sport', 
 	'HOODIES':			'hauts à capuchon',
 	'TEES':				'T-shirts', 
-	'SHIRTS':			'chemises', 
 	'SHOES':			'chaussures', 
 	'ACCESSORIES': 		'accessoires', 
 	'BODY SUITS':		'Cache-couches' , 
@@ -74,6 +73,7 @@ dict2 = {
 	'GRAPHIC TEES':		'T-shirts imprimés',
 	'UNIFORMS':			'uniformes',
 	'ROMPERS':			'barboteuses',
+	'SHIRTS':			'chemises', 
 }
 
 def repl1(m):
